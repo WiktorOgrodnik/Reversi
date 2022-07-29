@@ -34,7 +34,7 @@ git clone https://github.com/WiktorOgrodnik/Reversi.git
 make game
 ```
 
-5. Run
+4. Run
 
 ```bash
 ./reversi
@@ -63,7 +63,7 @@ git clone https://github.com/WiktorOgrodnik/Reversi.git
 make game
 ```
 
-6. Run  
+5. Run  
 
 ```bash
 ./reversi.exe
