@@ -5,3 +5,5 @@ reversi_test
 reversi_turniej
 reversi_gen
 reversi-obj
+
+*.exe

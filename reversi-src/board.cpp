@@ -10,7 +10,7 @@ Board::Board() {
 }
 
 void Board::set_pawn(std::size_t x, std::size_t y, Player player) {
-	u_int8_t shift = 2*(y*M + x);
+	uint8_t shift = 2*(y*M + x);
 	board = (board & ~(((u_int128_t)3) << shift)) | ((u_int128_t)player << shift);
 }
 
